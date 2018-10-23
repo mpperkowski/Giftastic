@@ -1,0 +1,12 @@
+.btn-primary {
+	margin-right: 8px;
+	background-color: blue;
+	border-color: orange;
+	border-width: 2px;
+}
+
+
+.btn-primary:hover {
+	background-color: blue;
+	border-color: black;
+}
